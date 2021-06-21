@@ -13,10 +13,8 @@ Abstracts/Posters presented at the 27th Annual Meeting of the Organization for H
 
 I'm presenting the following posters at [OHBM 2021](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4054):
 
-* Poster A, #2307: *Can behavioral responses be decoded indirectly? Decoding behavioral responses from fMRI ...*
-  * [Abstract](https://github.com/JoramSoch/OHBM_2021/blob/main/Abstracts/OHBM_2021_Abstract_A_NBD.pdf) – [Poster](https://github.com/JoramSoch/OHBM_2021/blob/main/Posters/OHBM_2021_Poster_A_NBD.pdf) – [Video](https://github.com/JoramSoch/OHBM_2021/blob/main/Videos/OHBM_2021_Video_A_NBD.mp4)
-* Poster B, #2438: *Memory-related fMRI activations and deactivations as a potential biomarker for neurocognitive aging*
-  * [Abstract](https://github.com/JoramSoch/OHBM_2021/blob/main/Abstracts/OHBM_2021_Abstract_B_FADE.pdf) – [Poster](https://github.com/JoramSoch/OHBM_2021/blob/main/Posters/OHBM_2021_Poster_B_FADE.pdf) – [Video](https://github.com/JoramSoch/OHBM_2021/blob/main/Videos/OHBM_2021_Video_B_FADE.mp4)
+* Poster A, #2307: *Can behavioral responses be decoded indirectly? Decoding behavioral responses from fMRI without learning behavioral responses from fMRI* – [Abstract](https://github.com/JoramSoch/OHBM_2021/blob/main/Abstracts/OHBM_2021_Abstract_A_NBD.pdf) | [Poster](https://github.com/JoramSoch/OHBM_2021/blob/main/Posters/OHBM_2021_Poster_A_NBD.pdf) | [Video](https://github.com/JoramSoch/OHBM_2021/blob/main/Videos/OHBM_2021_Video_A_NBD.mp4).
+* Poster B, #2438: *Memory-related fMRI activations and deactivations as a potential biomarker for neurocognitive aging* – [Abstract](https://github.com/JoramSoch/OHBM_2021/blob/main/Abstracts/OHBM_2021_Abstract_B_FADE.pdf) | [Poster](https://github.com/JoramSoch/OHBM_2021/blob/main/Posters/OHBM_2021_Poster_B_FADE.pdf) | [Video](https://github.com/JoramSoch/OHBM_2021/blob/main/Videos/OHBM_2021_Video_B_FADE.mp4).
 
 
 ## Presentation times
