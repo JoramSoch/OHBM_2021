@@ -6,7 +6,7 @@ Abstracts/Posters presented at the 27th Annual Meeting of the Organization for H
 * [Conference Programme](www.humanbrainmapping.org//OHBM21Schedule)
 * [Conference Login](https://ohbm.sparkle.space/v/home)
 * [Abstract Book](https://www.humanbrainmapping.org/files/ohbm2021_abstracts_v2(1).pdf)
-* [Poster Playlists](https://docs.google.com/spreadsheets/d/1jA7oKeR2xlNTAxK9WkdV94J2ppREapJDU1_bI6R5xyA/edit#gid=0)
+* [Poster Highlights](https://docs.google.com/spreadsheets/d/1jA7oKeR2xlNTAxK9WkdV94J2ppREapJDU1_bI6R5xyA/edit#gid=0)
 * [Poster Instructions](https://drive.google.com/file/d/171OGZNyI5vFRGiT_q_pwQIEv1ac27TbS/view)
 
 ## Poster numbers/titles
@@ -24,7 +24,7 @@ All times are in [Central European Summer Time](https://www.timeanddate.com/worl
 * Mon, 21/06/2021, 18:00-19:00: [Poster B](https://github.com/JoramSoch/OHBM_2021/blob/main/Posters/OHBM_2021_Poster_B_FADE.pdf)
 * Tue, 22/06/2021, 10:00-21:00: [Poster A](https://github.com/JoramSoch/OHBM_2021/blob/main/Posters/OHBM_2021_Poster_A_NBD.pdf)
 * Wed, 23/06/2021, 02:00-03:00: Poster B
-* Wed, 23/06/2021, 18:00-19:00: Poster A (may be absent)
+* Wed, 23/06/2021, 18:00-19:00: Poster A (**will not be present, sorry**)
 * Thu, 24/06/2021, 11:00-12:00: Poster B
 * Fri, 25/06/2021, 02:00-03:00: Poster A
 
@@ -38,4 +38,5 @@ Connection via [Sparkle](https://ohbm.sparkle.space/in/home):
 
 Connection via [Zoom](https://zoom.us/):
 
-* TBA
+* [write me an e-mail](mailto:joram.soch@bccn-berlin.de) to schedule a meeting
+* [enter the meeting room](https://us02web.zoom.us/j/5464330970?pwd=WW9yZkkxVkM4RG51WGdQK3UrSGtPQT09) and let's discuss
